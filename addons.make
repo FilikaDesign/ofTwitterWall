@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxFontStash
+ofxFX
+ofxHttpUtils
